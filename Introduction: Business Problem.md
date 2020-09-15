@@ -7,3 +7,5 @@ Road accidents may occur due to various factors like visibility, traffic congest
 Once the models are created, it can either help reduce road accidents by warning the human beings or feeding these models into Autonomous vehicle systems to make clever decisions to avoid accidents.
 
 The model can serve society in a very beneficial way of reducing property loss as well as the loss of life.
+
+This model will particularly be helpful to the traffic department in warning the drivers by placing appropriate sign boards were accidents can be avoided. It can also serve the autonomous vehicle manufacturer to incorporate it into their vehicle system to make clever decisions based on the situations to avoid accidents.
